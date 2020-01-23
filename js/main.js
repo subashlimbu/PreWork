@@ -66,9 +66,9 @@ function flipCard(){
 
 };
 
-//function resetForm(){
-//   document.getElementById("userForm").reset();
-//}
+function refreshPage(){
+    location.reload();
+} 
 
 createBoard();
 

@@ -86,6 +86,13 @@ main {
   margin: 35px auto;
 }
 
+button{
+  background-color: red;
+  color: blue;
+  font-size: 15px;
+  cursor: pointer;
+}
+
 
 /* =============================
 GAME BOARD
